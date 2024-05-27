@@ -1,0 +1,56 @@
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\appsettings.json
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Account Management.exe
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Account Management.deps.json
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Account Management.runtimeconfig.json
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Account Management.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Account Management.pdb
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Humanizer.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Npgsql.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\System.CodeDom.dll
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.csproj.AssemblyReference.cache
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.AssemblyInfoInputs.cache
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.AssemblyInfo.cs
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.csproj.CoreCompileInputs.cache
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets\msbuild.Account Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Account Management.props
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Account Management.props
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Account Management.props
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\scopedcss\bundle\Account Management.styles.css
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.csproj.CopyComplete
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.dll
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\refint\Account Management.dll
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.pdb
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\Account Management.genruntimeconfig.cache
+D:\New folder\Account Management System\Account Management\obj\Debug\net7.0\ref\Account Management.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\AutoMapper.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Scrutor.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\BCrypt.Net.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Account Management System\Account Management\bin\Debug\net7.0\System.Security.Permissions.dll
